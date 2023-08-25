@@ -1,0 +1,11 @@
+Scan Number,Patient Age,Patient Sex,nodule_x,nodule_y,nodule_z,Diagnosis
+lungx-ct051,59,M,303,297,77,Primary lung cancer 
+lungx-ct052,67,F,135,202,124,Primary lung cancer
+lungx-ct053,47,F,195,303,213,Primary lung cancer
+lungx-ct054,54,F,174,208,149,Suspicious malignant nodule
+lungx-ct055,60,F,223,193,125,Primary lung cancer
+lungx-ct056,63,F,209,308,56,Primary lung cancer
+lungx-ct057,64,F,396,353,169,Benign nodule
+lungx-ct058,71,F,377,234,157,Benign nodule
+lungx-ct059,63,F,371,207,258,Benign nodule
+lungx-ct060,61,M,192,298,133,Benign nodule
